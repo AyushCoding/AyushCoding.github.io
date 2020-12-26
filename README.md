@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ayush👋</h1>
-<p style="font-size:17px;">Front-end Web Developer | B.Tech CS Student at <a href="https://kiit.ac.in/"><strong>KIIT University</strong></a> </p>
+<p style="font-size:17px;">Front-end Web Developer | B.Tech CS Student at <a href="https://kiit.ac.in/"><strong>KIIT University.</strong></a> </p>
 
 <h2 align="left"><strong>🌱 I’m currently learning:</strong></h2> 
 <p style="font-size:17px;">● I am an aspiring Web developer, basically brushing up my skills in HTML, CSS and Javascript.</p>
